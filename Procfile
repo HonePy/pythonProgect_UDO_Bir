@@ -1,1 +1,1 @@
-worker: python UDO_Bir
+worker: python main.py
